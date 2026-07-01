@@ -30,7 +30,7 @@ data:extend({
     type = "recipe",
     name = "simple-cottage",
     energy_required = 1,
-    category = "crafting",
+    categories = {"crafting"},
     ingredients =
     {
       {type = "item", name = "stone", amount = 40},
